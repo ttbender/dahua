@@ -34,7 +34,7 @@ To manually install:
 
 ```bash
 # Download a copy of this repository
-$ wget https://github.com/rroller/dahua/archive/dahua-main.zip
+$ wget https://github.com/rroller/dahua/archive/refs/heads/main.zip
 
 # Unzip the archive
 $ unzip dahua-main.zip
